@@ -18,32 +18,32 @@ El codigo creado para realizar este examen es el siguiente:
 
 ```
 
-### ejercicio1
+### ejercicio 1:
 
 ```
 
 ```
 
 
-### ejercicio2
+### ejercicio 2:
 
 ```
 
 ```
 
-### ejercicio3
+### ejercicio 3:
 
 ```
 
 ```
 
-### ejercicio4
+### ejercicio 4:
 
 ```
 
 ```
 
-### ejercicio5
+### ejercicio 5:
 
 ```
 
