@@ -1,25 +1,18 @@
-from clases.ejercicio2 import determinanterecursivo
-from clases.ejercicio2 import gauss
-from clases.ejercicio2 import det
+from ejercicios1.lanzador1 import main1
+from ejercicios2.lanzador2 import main2
+from ejercicios3.lanzador3 import main3
+from ejercicios4.lanzador4 import main4
+from ejercicios5.lanzador5 import main5
 
 def main():
-    determinanterecursivo()
-    
-    a=float(input("seleccione el elemento 1x1: "))
-    b=float(input("seleccione el elemento 1x2: "))
-    c=float(input("seleccione el elemento 1x3: "))
-    d=float(input("seleccione el elemento 2x1: "))
-    e=float(input("seleccione el elemento 2x2: "))
-    f=float(input("seleccione el elemento 2x3: "))
-    g=float(input("seleccione el elemento 3x1: "))
-    h=float(input("seleccione el elemento 3x2: "))
-    i=float(input("seleccione el elemento 3x3: "))
-    matriz=[[a, b, c], 
-    [d, e, f], 
-    [g, h, i]]
-    
-    gauss()
-    
-    det()
+    e=int(input("¿Que ejercicio desea realizar?: "))
+    if e == 1:
 
+    if e == 2:
+
+    if e == 3:
+
+    if e == 4:
+
+    if e == 5:
 
